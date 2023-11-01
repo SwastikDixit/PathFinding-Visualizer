@@ -5,14 +5,11 @@
 ## Installation
 
 ```bash
-git clone https://github.com/vivekarora-02/PathFinding-Visualizer.git
+git clone https://github.com/SwastikDixit/PathFinding-Visualizer.git
 cd PathFinding-Visualizer
 npm install
 npm start
 ```
-## Demo
-https://pathfinding-visualizerbyvivek.netlify.app/
-
 ## Algorithm List
 
 Weighted:
